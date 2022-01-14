@@ -2,8 +2,6 @@
 
 Dotfile's configuration files for bash, zsh, git, ruby, and more.
 
-See also: [jcconde/vimfiles](https://github.com/jcconde/vimfiles)
-
 ## Installation
 
 Clone somewhere, then run the `install` script:
