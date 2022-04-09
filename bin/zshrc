@@ -1,0 +1,29 @@
+plugins=(
+  git
+  docker
+  docker-compose
+  pip
+  phing
+  fast-syntax-highlighting
+  zsh-autosuggestions
+  copypath
+  copyfile
+  web-search
+  command-time
+  oh-my-matrix
+  encode64
+  npm
+  nvm
+  node
+  rsync
+  command-not-found
+  tmux
+  yarn
+  httpie
+)
+
+alias cdwww='cd /path/projects/www/'
+alias cdmycustomproject='cd /path/projects/www/mycustomproject'
+alias cdhome='cd ~/'
+alias mage="php -d memory_limit=4096M bin/magento"
+alias mage-cache-clean="node ~/.config/composer/vendor/bin/cache-clean.js"
